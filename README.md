@@ -1,6 +1,5 @@
 # Salary Predictive model for Data Science roles in the U.S
 
-Background
 The field of data analytics is evolving rapidly. According to the Bureau of Labor Statistics, employment in the data domain is projected to grow by 35% from 2024 to 2032—significantly faster than the average for all occupations. 
 
 Despite this growth, job seekers often struggle to align their skills, education, and experience with the evolving market demands, leading to missed opportunities and unfulfilled potential.
